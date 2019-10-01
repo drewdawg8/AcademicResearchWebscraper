@@ -1,1 +1,2 @@
-# AcademicResearchWebscraper
+# Academic Research Webscraper
+Webscraper that collected data on donations to Virginia politicians from VPAP. Used in an academic paper about donors and higher education policy. Has not been updated since it's last use, I'm adding it to Github so I can link it on my resume.
